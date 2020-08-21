@@ -1,2 +1,2 @@
-# Mini_project_SVM
+# Minor_project_SVM
 Iris data set loaded from sklearn library itself.
